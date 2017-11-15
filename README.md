@@ -16,7 +16,7 @@ Our ready to use sections will allow you to just drag and drop it to new page wi
 <h3><a href="https://wrappixel.com/templates/wrapkit-lite/">Check Live demo</a></h3>
 
 
-<h2>Pro also available version</h2>
+<h2>Wrapkit Pro version is also available - check out the live preview </h2>
 
 <a href="https://wrappixel.com/templates/wrapkit/">
     <img src="https://wrappixel.com/demos/images/wrapkit-promotion.jpg"/>
