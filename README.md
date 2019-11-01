@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://wrappixel.com/demos/ui-kit/wrapkit-free/wrapkit/index.html">
-    <img src="https://wrappixel.com/wp-content/uploads/edd/2017/11/wrapkit-free.jpg"/>
+    <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/wrapkit-uikit-lite-nw-1.jpg"/>
 </a>
 
 WrapKit Lite is Free Bootstrap 4 Web UI Kit. It allows you to create anything like complete websites, landing pages, coming soon, homepages etc. It comes with some stunning ready to use UI Blocks & Elements to make your life even easier to use it directly for your projects. WrapKit Lite is build on Bootstrap 4, which is responsive CSS Framework. 
