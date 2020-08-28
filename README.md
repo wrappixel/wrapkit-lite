@@ -1,7 +1,7 @@
 <!-- <h1>WrapPixel's Wrapkit Lite</h1> -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/templates/niceadmin-lite/">Wrapkit UI Lite</a>
+  <a href="https://www.wrappixel.com/templates/wrapkit-lite/">Wrapkit UI Lite</a>
 </h1>
 
 <!-- Main image of Template -->
