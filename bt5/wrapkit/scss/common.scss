@@ -1597,6 +1597,12 @@ code {
     box-shadow: none !important;
 }
 
+@media (max-width: 767px) {
+    .wrap-feature30-box {
+        position: unset !important;
+    }
+}
+
 @media (max-width: 575px) {
     .title {
         font-size: 30px;
