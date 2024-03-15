@@ -1,89 +1,186 @@
-<!-- <h1>WrapPixel's Wrapkit Lite</h1> -->
-<!-- Heading of Template -->
-<h1>
-  <a href="https://www.wrappixel.com/templates/wrapkit-lite/">Wrapkit UI Lite</a>
-</h1>
+# <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/bt5/wrapkit/index.html">Wrapkit Free</a>
+Bootstrap 5 Web Ui Kit
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/2019/01/wrapkit-uikit-lite-nw-1.jpg">
-  <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/wrapkit-uikit-lite-nw-1.jpg" />
+<a target="_blank" href="https://www.wrappixel.com/templates/wrapkit-lite/">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2021/09/image.jpg" />
 </a>
 
-<!-- <a href="https://wrappixel.com/demos/ui-kit/wrapkit-free/wrapkit/index.html">
-    <img src="https://www.wrappixel.com/wp-content/uploads/2019/01/wrapkit-uikit-lite-nw-1.jpg"/>
-</a> -->
 
-<!-- Description of Template -->
-<p>
-    WrapKit Lite is Free Bootstrap 5 Web UI Kit. It allows you to create anything like complete websites, landing pages, coming soon, homepages etc. It comes with some stunning ready to use UI Blocks & Elements to make your life even easier to use it directly for your projects. WrapKit Lite is build on Bootstrap 5, which is responsive CSS Framework. 
-</p>
+# Compare with Premium Version 🌓
 
-<p>
-    You can use WrapKit Lite for your Personal Projects. We would advice you to use our WrapKit Pro version for your Commercial Use. WrapKit Pro contains 25+ Niche Homepages, 180+ Pre-Made Sections, 500+ UI Elements, 2000+ Premium Font Icons & counting.., which allows you to create anything you want in few minutes. 
-</p>
+<table>
+<thead>
+<tr>
+<th>Free Bootstrap 5 Web Ui Kit</th>
+<th>Bootstrap 5 Web Ui Kit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/bt5/wrapkit/index.html">Live Preview</a>
+  </td>
+  <td>
+  <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/landingpage/index.html">Live Preview</a>
+  </td>
+</tr>
+<tr>
+  <td>
+      <a href="https://www.wrappixel.com/templates/wrapkit-lite/">Download Now</a>
+  </td>
+  <td>
+    <a href="https://www.wrappixel.com/templates/wrapkit/">Purchase Now</a>
+  </td>
+</tr>
+<tr>
+  <td>
+  17+ readymade UI Blocks
+  </td>
+  <td>
+  150+ Interface Sections
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Wrapkit Figma Files
+  </td>
+</tr>
+<tr>
+  <td>
+  25+ UI elements
+  </td>
+  <td>
+  500+ UI elements
+  </td>
+</tr>
+<tr>
+  <td>
+  Fully Responsive Pages
+  </td>
+  <td>
+  Fully Responsive Pages
+  </td>
+</tr>
+<tr>
+  <td>
+  Bootstrap 5 Framework
+  </td>
+  <td>
+  Bootstrap 5 Framework
+  </td>
+</tr>
+<tr>
+  <td>
+  Retina Ready templates
+  </td>
+  <td>
+  Retina Ready templates
+  </td>
+</tr>
+<tr>
+  <td>
+  No Documentation
+  </td>
+  <td>
+  Documentation Provided
+  </td>
+</tr>
+<tr>
+  <td>
+  Easy To Customize
+  </td>
+  <td>
+  Easy To Customize
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  25+ Amazing Prebuilt Demos
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  3000+ Premium Font Icons
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  1 Year Premium Support
+  </td>
+</tr>
+</tbody>
+</table>
 
-<p>
-    Our ready to use sections will allow you to just drag and drop it to new page with well defined guide of what CSS, HTML & JS code you would required to use each section, which makes it even easier to create something amazing in no-time. We are bound to update our kit and we keep adding new things to make it even stronger day by day. You will receive all updates free for lifetime. 
-</p>
+# Upgrade to Premium version
 
-<!-- Resources of Template -->
-<h2>Resources</h2>
-<ul>
-<li>  
-  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/bt5/wrapkit/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/bt5/wrapkit/index.html</a>
-</li>
-<li>
-    Download Page: <a href="https://www.wrappixel.com/templates/wrapkit-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/wrapkit-lite/</a>
-</li>
-<li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
-</li>
-</ul>
-
-<!-- Licensing of Template -->
-<h2>Licensing</h2>
-<ul>
-  <li>
-    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
-  </li>
-  <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
-  </li>
-</ul>
-
-<!-- <h3><a href="https://wrappixel.com/demos/ui-kit/wrapkit-free/wrapkit/index.html">Check Live demo</a></h3> -->
-<!-- <h2>Wrapkit Pro version is also available - check out the live preview </h2> -->
-
-<!-- Upgrade to Premium version of Template -->
-<h2>Upgrade to Premium version</h2>
 <a target="_blank" href="https://www.wrappixel.com/templates/wrapkit/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/wrapkit-complete-ui-kit-y-20.jpg" />
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/wrapkit-complete-ui-kit-y-20.jpg" alt="">
 </a>
 <p>
-   Checkout our premium version of Wrapkit Complete UI kit for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/templates/wrapkit/">Download</a>
+  Checkout our premium version of Wrapkit Web Ui Kit for lots more features and ready to use page templates.<br>
+  <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/wrapkit/">Download</a>
 </p>
+
+<!-- Versions of Template -->
+# Versions
+<table>
+<thead>
+<tr>
+<th>React Js</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/wrapkit-react-lite/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/wrapkit-react-lite-y.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+</td>
+  
+</tr>
+</tbody>
+</table>
+
+
+
+
 
 <!-- Useful Links of Template -->
-<h2>Useful Links</h2>
-<ul>
-<li><a href="https://www.wrappixel.com" rel="nofollow">Bootstrap Templates</a> from Wrappixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/" rel="nofollow">React Templates</a> from Wrappixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/" rel="nofollow">Vue Templates</a> from Wrappixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/" rel="nofollow">Angular Templates</a> from Wrappixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/" rel="nofollow">Freebies</a> from Wrappixel</li>
-<li><a href="https://www.wrappixel.com/affiliate-area/" rel="nofollow">Affiliate Program</a></li>
-</ul>
+# Useful Links
+- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
 
-<!-- Social Media of Wrappixel -->
-<h2>Social Media</h2>
-<p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
-<p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
-<p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
 
-<!-- <a href="https://wrappixel.com/templates/wrapkit/">
-    <img src="https://wrappixel.com/demos/images/wrapkit-promotion.jpg"/>
-</a> -->
+<!-- Licensing of Template -->
+# Licensing
+- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
+- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
 
-<!-- <h3><a href="https://wrappixel.com/templates/wrapkit/">Check Live demo of Pro version</a></h3> -->
+
+<!-- Social Media of Adminmart -->
+# Social Media 👭🏼
+- <p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
+- <p>Linkedin: <a href="https://www.linkedin.com/company/wrappixel/">https://www.linkedin.com/company/wrappixel/</a></p>
+- <p>Github: <a href="https://github.com/wrappixel">https://github.com/wrappixel</a></p>
+- <p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
+- <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+- <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
+- <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
+
