@@ -1,11 +1,5 @@
-# <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/bt5/wrapkit/index.html">Wrapkit Free</a>
+# <a href="https://wrappixel.com/bootstrap-templates">Wrapkit Free</a>
 Bootstrap 5 Web Ui Kit
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/wrapkit-lite/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2021/09/image.jpg" />
-</a>
-
 
 # Compare with Premium Version 🌓
 
@@ -19,18 +13,10 @@ Bootstrap 5 Web Ui Kit
 <tbody>
 <tr>
   <td>
-    <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/bt5/wrapkit/index.html">Live Preview</a>
+      <a href="https://wrappixel.com/templates/wrapkit-lite"><b>Download Now</b></a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/landingpage/index.html">Live Preview</a>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="https://www.wrappixel.com/templates/wrapkit-lite/">Download Now</a>
-  </td>
-  <td>
-    <a href="https://www.wrappixel.com/templates/wrapkit/">Purchase Now</a>
+    <a href="https://wrappixel.com/templates/wrapkit"><b>Purchase Now</b></a>
   </td>
 </tr>
 <tr>
@@ -126,12 +112,12 @@ Bootstrap 5 Web Ui Kit
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/wrapkit/">
+<a target="_blank" href="https://wrappixel.com/templates/wrapkit">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/wrapkit-complete-ui-kit-y-20.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of Wrapkit Web Ui Kit for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/ui-kit/wrapkit-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/wrapkit/">Download</a>
+<a href="https://wrappixel.com/templates/wrapkit"><b>Download Now</b></a>
 </p>
 
 <!-- Versions of Template -->
@@ -145,7 +131,7 @@ Bootstrap 5 Web Ui Kit
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/wrapkit-react-lite/" width="150px">
+  <a href="https://wrappixel.com/templates/wrapkit-react-lite" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/wrapkit-react-lite-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -161,17 +147,17 @@ Bootstrap 5 Web Ui Kit
 
 <!-- Useful Links of Template -->
 # Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com"><b>Admin Theme</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro"><b>Bootstrap Themes</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-lite"><b>Free Bootstrap Admin Templates</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-react-redux-admin"><b>React Bootstrap Template</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-vuetify-admin"><b>Vuejs Templates</b></a> from Wrappixel</p>
 
 
 <!-- Licensing of Template -->
 # Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+- <p>Copyright 2024 Wrappixel <a href="https://wrappixel.com"><b>https://wrappixel.com</b></a></p>
+- <p>Licensed under MIT <a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a></p>
 
 
 <!-- Social Media of Adminmart -->
@@ -183,4 +169,3 @@ Bootstrap 5 Web Ui Kit
 - <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
 - <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
 - <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
-
